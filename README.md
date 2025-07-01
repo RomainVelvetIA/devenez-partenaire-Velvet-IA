@@ -1,8 +1,8 @@
-# Landing Page Programme de Commission - Ask Lab
+# Programme de Commission - Agents Vocaux IA | Velvet IA
 
 ## 🚀 Présentation
 
-Landing page ultra-qualitative et interactive présentant le système de commission pour les commerciaux souhaitant vendre les agents vocaux IA d'Ask Lab.
+Landing page ultra-qualitative et interactive présentant le système de commission pour les commerciaux souhaitant vendre les agents vocaux IA de Velvet IA.
 
 ### 🎯 Objectif
 Convertir les visiteurs en partenaires commerciaux pour vendre des assistants vocaux IA entre 2000€ et 5000€ HT sur les marchés français et suisse.
@@ -34,7 +34,6 @@ src/
     ├── HeroSection.tsx      # Section héro avec propositions de valeur
     ├── CommissionSection.tsx # Détails du système de commission
     ├── StatsSection.tsx     # Statistiques et résultats
-    ├── TestimonialsSection.tsx # Témoignages clients
     ├── CTASection.tsx       # Call-to-action final
     └── Footer.tsx           # Footer avec informations contact
 ```
@@ -42,7 +41,7 @@ src/
 ## 🎨 Design & UX
 
 ### Palette de Couleurs
-- **Primaire :** Bleus (brand Ask Lab)
+- **Primaire :** Violet/Rose (brand Velvet IA)
 - **Succès :** Verts (gains, réussite)
 - **Warning :** Oranges (urgence, action)
 - **Neutrals :** Grays (texte, backgrounds)
@@ -78,12 +77,7 @@ src/
 - Secteurs d'activité couverts
 - Territoires de vente
 
-### 4. Témoignages Clients
-- 3 témoignages authentiques avec photos
-- Économies réalisées mises en avant
-- Bénéfices produit détaillés
-
-### 5. Call-to-Action Final
+### 4. Call-to-Action Final
 - Création d'urgence avec bénéfices limités
 - Processus d'inscription en 4 étapes
 - Double bouton d'action
@@ -118,7 +112,7 @@ L'application sera accessible sur [http://localhost:3000](http://localhost:3000)
 ## 🎯 Conversions Optimisées
 
 ### Points de Conversion
-1. **Header :** Bouton "Rejoindre le Programme"
+1. **Header :** Bouton "Candidater"
 2. **Hero :** Boutons "Commencer Maintenant" et "En Savoir Plus"
 3. **Commission :** Call-to-action intégrés
 4. **CTA Final :** "Postuler Maintenant" et "Demander un Appel"
@@ -154,9 +148,9 @@ NEXT_PUBLIC_SITE_URL=https://votre-domaine.com
 ## 📞 Contact & Support
 
 Pour toute question technique ou commerciale :
-- **Email :** partenaires@asklab.fr
-- **Site :** [asklab.fr](https://asklab.fr)
+- **Email :** contact@velvetia.fr
+- **Site :** [velvetia.fr](https://velvetia.fr)
 
 ---
 
-Développé avec ❤️ pour maximiser les conversions et présenter l'opportunité commerciale Ask Lab de manière professionnelle et engageante. 
+Développé avec ❤️ pour maximiser les conversions et présenter l'opportunité commerciale Velvet IA de manière professionnelle et engageante.
